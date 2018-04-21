@@ -4,7 +4,10 @@ Test build 0.1-dev
 *Devfee has been disabled for testing 
 *Hashrate optimizations have been disabled for testing 
 
+
+
 If you encounter any issues please contact me via my discord (Appa#4477)
+Or find me in my help server https://discord.gg/MyamHDx
 So they can be assessed and fixed asap
 
 
